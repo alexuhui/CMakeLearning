@@ -1,6 +1,6 @@
 #include <iostream>
 #include <stdio.h>
-#include "../include/head.h"
+#include "head.h"
 
 using namespace std;
 

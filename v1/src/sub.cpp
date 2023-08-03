@@ -1,4 +1,4 @@
-#include "../include/head.h"
+#include "head.h"
 
 int sub(int a, int b)
 {

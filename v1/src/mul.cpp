@@ -1,4 +1,4 @@
-#include "../include/head.h"
+#include "head.h"
 
 int mul(int a, int b)
 {
